@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Cuatrocientoscuatro::VERSION
   spec.authors       = ["Miles Starkenburg"]
   spec.email         = ["milesstarkenburg@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Simple Http file server that responds in español.}
+  spec.description   = %q{Very simple http server following https://practicingruby.com/articles/implementing-an-http-file-server?u=2c59db4496 as a guide}
   spec.homepage      = ""
   spec.license       = "MIT"
 
