@@ -1,6 +1,6 @@
 # Cuatrocientoscuatro
 
-TODO: Write a gem description
+Very Simple HTTP server that responds in español!!!
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Not anything special just install and play around with curl....
 
 ## Contributing
 
